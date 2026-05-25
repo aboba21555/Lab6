@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
                 ) {
 
                     Greeting(
-                        name = "Берлодян Артур "
+                        name = "Берлодян Артур " помилка
                     )
 
                 }
