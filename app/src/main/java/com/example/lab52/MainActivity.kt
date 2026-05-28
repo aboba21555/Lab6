@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
                 ) {
 
                     Greeting(
-                        name = "Товстенко Гордій "
+                        name = "Товстенко Гордій " абоба
                     )
 
                 }
