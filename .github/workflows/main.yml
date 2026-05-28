@@ -1,4 +1,4 @@
-name: Android CI - Berloodyan
+name: Android CI - Tovstenko
 
 on:
   push:

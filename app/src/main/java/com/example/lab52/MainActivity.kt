@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
                 ) {
 
                     Greeting(
-                        name = "Берлодян Артур " помилка
+                        name = "Товстенко Гордій "
                     )
 
                 }
@@ -59,7 +59,7 @@ fun GreetingPreview() {
         ) {
 
             Greeting(
-                name = "Берлодян Артур"
+                name = "Товстенко Гордій"
             )
 
         }
